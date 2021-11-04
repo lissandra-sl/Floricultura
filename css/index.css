@@ -1,0 +1,65 @@
+
+*{
+    margin: 0; 
+    padding: 0;
+    
+}
+.menu-superior{
+    background-color: hsl(308, 66%, 17%);
+    width: 100%;
+    height: 80px;
+}
+
+button{
+    
+    padding-top: 10%;
+    justify-content: center;
+    margin-top: 15px;
+    
+}
+.espaco-btm{
+    padding: 15px;
+}
+.logo{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 25pt;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+.capa{
+    width: 100%;
+
+}
+
+.conteudo-vitrine-1 , .conteudo-vitrine-2 , .conteudo-vitrine-3{
+    padding: 5px;
+    display: flex;
+    margin-top: 50px;
+}
+.item-vitrine{
+    padding: 30px;
+}
+.titulo{
+    color: #4a1655;
+    text-align: center;
+    padding-top: 20px;
+}
+.container{
+    margin-left: 8%; 
+    margin-right: 5%;
+}
+input{
+    text-align: center;
+    width: 200px;
+    justify-content: center;
+    }
+.btm-enviar{
+    margin: 20px;
+    width: 130px;
+
+    
+    
+}
+
